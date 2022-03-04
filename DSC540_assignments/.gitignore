@@ -1,0 +1,14 @@
+
+CANDYDATA.xlsx
+*.csv
+*.html
+BOING-BOING-CANDY-HIERARCHY-2016-SURVEY-Responses.xlsx
+twitter_apikeys.json
+twitter_api.txt
+twitter_keysecret.json
+twitter_token.json
+twitter_tokensecret.json
+APIkeys.json
+petsdb
+Project/stock_data.db
+Project/stock_dta.db
